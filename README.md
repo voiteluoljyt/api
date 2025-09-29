@@ -229,7 +229,7 @@ The guide intentionally links to `.md` versions of selected pages for cleaner in
 
 ---
 
-## 🇫🇮 Suomi (tulee myöhemmin)
+## 🇫🇮 Suomi
 
-Tämä README on tällä hetkellä vain englanniksi. Suomenkielinen osio lisätään myöhemmin (lyhyt yhteenveto pääpisteistä ja endpoint‑listasta).
+README.FI.md
 
